@@ -1,0 +1,12 @@
+.topheader1{
+    display: flex;
+    justify-content: space-evenly;
+    justify-content:centre;
+    width: 40%;
+}
+.lefthearder1{
+    width: 70%;
+}
+.mainimage2{
+    display: flex;
+}
